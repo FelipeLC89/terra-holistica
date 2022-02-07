@@ -263,7 +263,8 @@ hr.socket {
     display: block;
     margin: 0 auto;
   }
-  .sobre-nos {
+  .sobre-nos,
+  .main {
     color: #fff;
   }
 }
