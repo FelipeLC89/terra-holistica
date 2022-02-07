@@ -3,7 +3,7 @@
 body {
   overflow-x: hidden;
   font-family: "Lato", sans-serif;
-  color: #505962;
+  color: #373c42;
 }
 
 .sobre-nos {
@@ -262,6 +262,9 @@ hr.socket {
     max-width: 100%;
     display: block;
     margin: 0 auto;
+  }
+  .sobre-nos {
+    color: #fff;
   }
 }
 
